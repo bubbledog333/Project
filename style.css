@@ -1,6 +1,27 @@
 p{
-
-    font-weight: 34px;
-  
+padding-top: 20px;
+font-weight: 900;  
+font-size: 24px;
     font-family: 'Poppins', sans-serif; 
+}h1{
+    font-family:  'Playfair Display', serif;
+   font-size:60px;
+   color:black;
+   padding-bottom: -20px;
+   padding-top: -20px;
+}.cont{
+   background-color:#F9F7FE;
+   text-align: center;
+   padding-top: 150px;
+   padding-bottom: 150px;
+}h2{
+    font-family: 'Playfair Display ', serif;
+    font-weight: 600;
+}.cont .btn
+{
+ margin-top: 22px; padding:6px ;padding-left: 18px; padding-right: 18px;  font-family:'Poppins', sans-serif;  
+    background-color:#6C63FF ;
+    line-height: 27px;
+    font-size: 12px;
+    border-radius: 3px;
 }
