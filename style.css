@@ -6,7 +6,7 @@ font-size: 24px;
 }h1{
     font-family:  'Playfair Display', serif;
    font-size:60px;
-   color:black;
+   color:rgba(0, 0, 0, 0.836);
    padding-bottom: -20px;
    padding-top: -20px;
 }.cont{
@@ -24,4 +24,43 @@ font-size: 24px;
     line-height: 27px;
     font-size: 12px;
     border-radius: 3px;
+}.class{
+font-size: 16px;
+text-align: center;
+font-weight: 400;
+color: rgba(0, 0, 0, 0.685);
+
+}
+.Yogurtproject{
+    font-size: 50px;
+ margin-right: 60px;
+  
+    line-height: 2;
+    color: rgba(0, 0, 0, 0.815);
+
+}.imgg{
+ margin-bottom: 20px;  
+ margin-left: 200px;
+ margin-right: -200px;
+ padding-left: 60px;
+}p{
+    font-size:  17px; 
+    font-weight: 200;
+}
+.bt{
+color: #6C63FF;
+background-color: #F9F7FE;
+font-family: 'Poppins', sans-serif;
+padding: 10px 20px 10px 20px;
+
+}@media(max-width: 567px){
+    .class{
+font-size: 10px;
+    }
+
+}
+@media(min-width:768px ){
+    .bt{
+        margin-bottom: 20px;
+    }
 }
