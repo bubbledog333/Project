@@ -46,6 +46,7 @@ color: rgba(0, 0, 0, 0.685);
 }p{
     font-size:  17px; 
     font-weight: 200;
+
 }
 .bt{
 color: #6C63FF;
@@ -88,5 +89,40 @@ font-size: 10px;
 }.img-avatar{
   margin-top: 20px;
     margin-left: 80px;
-  max-width: 50%;  
+  max-width: 40%;  
+} nav img{ 
+   max-width: 40%; 
+   margin-left: 10px;
+} nav li a{
+    font-family: 'Poppins', sans-serif;
+text-decoration: none;
+display: inline;
+color: black;
+list-style:none;
+font-size: 13px;
+} nav li a:active, nav li a:hover {
+    color: #6C63FF;
+    transition: 100ms ease-in-out;
+} nav li{
+    list-style: none;
+    display: inline;
+    margin-left: 15px;
 }
+ @media(max-width: 567px){
+     img{
+         max-width: 10%;
+     } .a{
+         font-size:10px;
+;
+   display: inline;
+
+
+}.ali{
+    margin-left: 0px;
+     padding-left: 0px;
+}.al{
+    margin-left: 130px;
+}
+    
+  
+ }
