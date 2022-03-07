@@ -23,4 +23,121 @@ h3{  font-family: 'Poppins', sans-serif;
     font-size: 15px;
 }.img{
    border-radius: 10px;
-}
+}nav img{ 
+    max-width: 40%; 
+    margin-left: 10px;
+ } nav li a{
+     font-family: 'Poppins', sans-serif;
+ text-decoration: none;
+ display: inline;
+ color: black;
+ list-style:none;
+ font-size: 13px;
+ } nav li a:active, nav li a:hover {
+     color: #6C63FF;
+     transition: 100ms ease-in-out;
+ } nav li{
+     list-style: none;
+     display: inline;
+     margin-left: 15px;
+ }
+  @media(max-width: 567px){
+      img{
+          max-width: 10%;
+      } .a{
+          font-size:10px;
+ ;
+    display: inline;
+ 
+ 
+ 
+ }.ali{
+     margin-left: 0px;
+      padding-left: 0px;
+ }.al{
+     margin-left: 130px;
+ }} .github{
+    text-align: center;
+      margin-top: 20px;
+    
+    font-size: 24px;
+         color: #6C63FF;
+         display: block;
+         margin: 0 auto;
+       
+     }
+     footer{
+         display: block;
+         margin: 0 auto;
+     } .git{
+         text-decoration: none;
+     }.int{
+       text-decoration: none;
+     }.twi{
+         text-decoration: none;
+     } .twitt{
+        text-align: center;
+        margin-top: 10px;
+        margin-bottom: 20px;
+        padding-bottom: 20px;  
+        padding-top: 20px;
+      font-size: 24px;
+           color: #6C63FF;
+           display: block;
+           margin: 0 auto;
+     } .inta{
+        text-align: center;
+      margin-top: 10px;
+      margin-bottom: 10px; 
+      padding-top: 20px; 
+    font-size: 24px;
+         color: #6C63FF;
+         display: block;
+         margin: 0 auto;
+      
+       border-radius: 60px;
+      
+        
+     }.reef{
+        font-family: 'Poppins', sans-serif;
+        font-weight: 500; 
+        text-decoration: none;
+        color: black;
+        text-align: center;
+        display: block;
+        margin: 0 auto;
+        margin-bottom: 10px;
+        font-size: 24px;
+        border-radius: 30px;
+     }.reef:hover{
+         color: #6C63FF;
+         transition: all 150sm ease-in-out;
+     }
+    h4{
+        font-family: 'Playfair Display ', serif; 
+        font-weight: 700;  
+        margin-left: 20px;
+    }
+     .group .p{
+         font-size: 18px;
+         font-weight: 400;
+         line-height: 27px;
+     }
+     .btn{
+         background-color:#6C63FF ;
+         color: #F9F7FE;
+         font-weight: 500;
+         font-family: 'Poppins', sans-serif; 
+         margin-top: 22px; padding:6px ;padding-left: 18px; padding-right: 18px;  
+     margin-bottom: 20px;
+     margin-left: 30px;
+        }.group{
+         background-color: #F9F7FE;
+         margin-bottom: 20px;
+         border-radius: 10px;
+         margin-left: 20px;
+         margin-right: 20px;
+     }.group a{
+        display: block;
+        margin: 0 auto;
+      }
